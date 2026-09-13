@@ -1,2 +1,13 @@
-# School-Note
-Well Note
+# Study-Note
+
+个人学习博客存档。
+
+- 发布平台：CSDN 博客 · GitHub
+
+来源：双体软件精英产业学院第31期培训记录。
+
+---
+
+## 目录
+
+- [`博客/`](./博客/)：学习博客（markdown，CSDN同步）
