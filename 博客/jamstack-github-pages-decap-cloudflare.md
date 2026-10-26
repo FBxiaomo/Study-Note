@@ -1,15 +1,17 @@
 ---
-title: "基于 JAMstack 架构的零成本动态博客：GitHub Pages + Decap CMS + Cloudflare Workers 实战解析"
-description: "用 GitHub Pages 托管静态博客、Decap CMS 实现在线写作、Cloudflare Workers 代理 GitHub OAuth，从架构原理到配置接入，梳理认证、发布与跨仓库部署的完整流程。"
-pubDate: "2026-10-25"
+title: 基于 JAMstack 架构的零成本动态博客：GitHub Pages + Decap CMS + Cloudflare Workers 实战解析
+description: 用 GitHub Pages 托管静态博客、Decap CMS 实现在线写作、Cloudflare Workers 代理 GitHub
+  OAuth，从架构原理到配置接入，梳理认证、发布与跨仓库部署的完整流程。
+pubDate: 2026-10-25
 tags:
   - JAMstack
   - GitHub Pages
   - Decap CMS
   - Cloudflare Workers
   - Astro
+cover: images/screenshot_2026-10-26_162044_292.png
 draft: false
-slug: "jamstack-github-pages-decap-cloudflare"
+slug: jamstack-github-pages-decap-cloudflare
 ---
 
 # 基于 JAMstack 架构的零成本动态博客：GitHub Pages + Decap CMS + Cloudflare Workers 实战解析
